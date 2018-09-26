@@ -1,0 +1,6 @@
+*.xcassets
+Base.lproj
+*.sks
+*.plist
+*.atlas
+*.png
